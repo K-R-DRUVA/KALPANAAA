@@ -1,4 +1,4 @@
-### KALPANAAA
+# KALPANAAA
 We are delighted to present Kalpana 2024, the flagship event of IEEE Student branch PESU-ECC. Kalpana is a tech-oriented hackathon, themed "Hack for Humanity". 🌳🌏 
 Kalpana 2024 aims to provide a platform for innovation and collaboration in addressing real-world challenges with technology.🖥
 
